@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>_BST0021.jpg</filename>
+	<path>C:\tensorflow5\models\research\object_detection\images\train\_BST0021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pod</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1698</xmin>
+			<ymin>507</ymin>
+			<xmax>3534</xmax>
+			<ymax>2186</ymax>
+		</bndbox>
+	</object>
+</annotation>

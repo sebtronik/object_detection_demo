@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>_BST0038.jpg</filename>
+	<path>C:\tensorflow5\models\research\object_detection\images\test\_BST0038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pod</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1848</xmin>
+			<ymin>707</ymin>
+			<xmax>3494</xmax>
+			<ymax>2121</ymax>
+		</bndbox>
+	</object>
+</annotation>

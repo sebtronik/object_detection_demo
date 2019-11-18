@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bell-wifi-1024x768.jpg</filename>
+	<path>C:\tensorflow5\models\research\object_detection\images\test\bell-wifi-1024x768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pod</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>297</ymin>
+			<xmax>659</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>
